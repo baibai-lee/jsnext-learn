@@ -1,0 +1,22 @@
+# Misc files
+*~
+~*
+._*
+.DS_Store
+Desktop.ini
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# dependencies
+node_modules
+
+# Editor directories and files
+.idea
+.vscode
+.settings/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
